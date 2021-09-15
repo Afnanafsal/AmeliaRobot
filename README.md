@@ -9,8 +9,8 @@
 <a href="https://t.me/allmoviesreqgroup" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="http://t.me/sarasuGroupbot" alt=" sarasu "> <img src="https://github.com/Afnanafsal/AmeliaRobot" /> </a>
-* Support Channel: <a  href="https://t.me/sarasugroupbot" alt="Help Centre Logs"> <img  src="https://telegra.ph/file/03f1d8e20bca3ffb680e6.jpg" /> </a>
+* Bot Link:  <a href="http://t.me/sarsuGroupbot" alt=" sarasu "> <img src="https://github.com/Afnanafsal/AmeliaRobot" /> </a>
+* Support Channel: <a  href="https://t.me/sarsugroupbot" alt="Help Centre Logs"> <img  src="https://telegra.ph/file/03f1d8e20bca3ffb680e6.jpg" /> </a>
 
 ### Creating your own modules.
 
